@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "foodplate"
+  site-url: "https://aiforhealth-xyz.github.io/foodplate"
+  description: "What’s on your plate today? 😋"
+  repo-branch: main
+  repo-url: "https://github.com/aiforhealth-xyz/foodplate"
